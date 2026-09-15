@@ -13,6 +13,10 @@ Notebook-based exercises covering introductory deep learning, simple neural netw
 | Computer vision | `Convolutional Neural network/` with MNIST notebook |
 | Sequence models | `Recurrent Neural Networks/` notebook |
 
+The assignment archives are also extracted for direct browsing:
+`Assignment1/`, `Assignment2/`, `Assignment3/`, `Assignment4/`, and `Assignment6/`.
+The original ZIP files are retained as supplied archives.
+
 ## How To Explore
 
 Open the `.ipynb` files in Jupyter Notebook, JupyterLab, or VS Code. The repository does not include a dependency manifest or a single supported application entry point, so the exact environment should be chosen per notebook.
