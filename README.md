@@ -8,13 +8,15 @@ Notebook-based exercises covering introductory deep learning, simple neural netw
 
 | Area | Evidence in repository |
 | --- | --- |
-| Foundations | `intro/` learning material |
-| Feed-forward models | `Simple Neural Network/`, `Fully Connected Neural Network/` |
-| Computer vision | `Convolutional Neural network/` with MNIST notebook |
-| Sequence models | `Recurrent Neural Networks/` notebook |
+| Foundations | `deep-learning-introduction/` learning material |
+| Feed-forward models | `simple-neural-network/`, `fully-connected-neural-network/` |
+| Computer vision | `mnist-convolutional-network/` and `fashion-mnist-classifier/` |
+| Sequence models | `recurrent-neural-network/`, `imdb-rnn-sentiment/` |
 
 The assignment archives are also extracted for direct browsing:
-`Assignment1/`, `Assignment2/`, `Assignment3/`, `Assignment4/`, and `Assignment6/`.
+`deep-learning-foundations/`, `activation-functions-neural-networks/`,
+`mnist-feedforward-network/`, `fashion-mnist-classifier/`, and
+`imdb-rnn-sentiment/`.
 The original ZIP files are retained as supplied archives.
 
 ## How To Explore
